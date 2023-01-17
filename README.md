@@ -19,7 +19,7 @@ For this project, I had to build a digital clock using HTML, CSS, and Javascript
 
 ### Links
 
-- Live Site URL: [live site URL here]()
+- Live Site URL: [live site URL here](https://nbuylding.github.io/digital-clock/)
 
 ## My process
 
