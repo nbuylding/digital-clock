@@ -1,0 +1,47 @@
+* {
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('michael-olsen--djS1aPrSr4-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.clock {
+    display: flex;   
+}
+
+.clock div {
+    margin: 5px;
+}
+
+.clock span {
+    width: 100px;
+    background-color: rgb(32, 32, 32);
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    padding: 2rem 1rem;
+}
+
+.clock span.text {
+    font-weight: 300;
+    height: 30px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: #ffffff80;
+    color: black;
+}
